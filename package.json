@@ -1,0 +1,30 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "API em Node.js seguindo Clean Architecture",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "clean-architecture",
+    "backend"
+  ],
+  "author": "David Marques",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMarquesDev/clean-node-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidMarquesDev/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/DavidMarquesDev/clean-node-api#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
