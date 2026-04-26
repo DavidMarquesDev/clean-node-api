@@ -26,5 +26,8 @@
   "homepage": "https://github.com/DavidMarquesDev/clean-node-api#readme",
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.8"
   }
 }
