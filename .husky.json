@@ -1,0 +1,5 @@
+{"hooks": {
+    "pre-commit": "lint-staged",
+    "commit-msg": "git-commit-msg-linter -E .husky/commitlint-rules.js"
+    }
+}
